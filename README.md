@@ -1,4 +1,4 @@
-# webpack init
+# http-CRUD
 
 ## package install
 ```
@@ -19,5 +19,3 @@
 ```
     npm run build:dev
 ```
-
-# http-CRUD
